@@ -4,4 +4,9 @@ h1,p {
 
 #footer{
     background-color: blue;
+    text-align: center;
+}
+
+#enlace{
+    background-color: brown;
 }
