@@ -4,4 +4,11 @@ h1,p {
 
 #header {
     background-color: aqua;
+#footer{
+    background-color: blue;
+    text-align: center;
+}
+
+#enlace{
+    background-color: brown;
 }
